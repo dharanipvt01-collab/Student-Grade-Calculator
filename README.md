@@ -222,3 +222,24 @@ Generate graphical reports.
 Dharani
 
 This project was created as part of an AI & ML internship task.
+## Streamlit Web Application
+
+The Student Grade Calculator is also deployed as a web application using Streamlit.
+
+Users can enter a student's name and marks, and the application calculates the corresponding grade.
+
+### Live Demo
+
+https://student-grade-calculator-ma47sayec4cquhj8uprdu.streamlit.app/
+
+### Deployment
+
+The application is deployed using Streamlit Community Cloud.
+
+### Project Files
+
+- `student_grade_calculator.py` - Main Python grade calculator
+- `Student_Grade_Calculator.ipynb` - Jupyter Notebook implementation
+- `app.py` - Streamlit web application
+- `requirements.txt` - Python dependency for deployment
+- `README.md` - Project documentation
